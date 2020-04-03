@@ -7,3 +7,6 @@ const createdOnRemote = "created on remoteVar";
 
 
 const onlyOnNewBranch = "new branch";
+
+
+const ss = "Modif. afterFork";
