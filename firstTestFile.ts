@@ -4,3 +4,6 @@ const b = "next value";
 
 const createdOnRemote = "created on remoteVar";
 
+
+
+const onlyOnNewBranch = "new branch";
