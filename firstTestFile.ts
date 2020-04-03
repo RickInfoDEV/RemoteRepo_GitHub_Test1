@@ -6,4 +6,4 @@ const createdOnRemote = "created on remoteVar";
 
 
 
-const onlyOnNewBranch = "new branch";
+const newBranch2Value = "new branch";
