@@ -1,1 +1,4 @@
 const codeFromGitHubRemote = "4405";
+
+//Modif. depuis local epo. :
+const b = "next value";
